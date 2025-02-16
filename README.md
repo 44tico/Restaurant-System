@@ -1,7 +1,7 @@
 # Restaurant-System
 
 # Technologies
-C++
+C++ with Qt
 
 CMake
 
