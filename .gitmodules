@@ -1,0 +1,4 @@
+[submodule "Restaurant-Server"]
+	path = Restaurant-Server
+	url = https://github.com/44tico/Restaurant-Server.git
+	branch = master
