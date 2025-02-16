@@ -2,3 +2,7 @@
 	path = Restaurant-Server
 	url = https://github.com/44tico/Restaurant-Server.git
 	branch = master
+[submodule "Restaurant-Client-Interface"]
+	path = Restaurant-Client-Interface
+	url = https://github.com/44tico/Restaurant-Client-Interface
+	branch = master
